@@ -159,4 +159,6 @@ js 주석
 /* */
 // 
 
+box-sizing : content-box / border-box
+
 
