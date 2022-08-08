@@ -114,7 +114,10 @@ word-wrap  : 줄바꿈 기준 설정
  border-width  
  border-color 
  border : 3px solid rgba(255,0,0,0.8)
- 
+border-top : 
+border-bottom:
+border-left:
+border-right:
  
  
  선택자 
@@ -146,6 +149,14 @@ word-wrap  : 줄바꿈 기준 설정
  보더
  
  
+html 주석
+<!-- -->
 
+css 주석 
+/* */
+
+js 주석 
+/* */
+// 
 
 
